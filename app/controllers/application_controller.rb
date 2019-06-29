@@ -3,3 +3,7 @@ class ApplicationController < ActionController::Base
       @articles = Article.all
     end
 end
+
+
+
+
